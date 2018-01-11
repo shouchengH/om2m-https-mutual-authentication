@@ -7,5 +7,5 @@ start_NSCL.bat : 開啟NSCL的start.bat檔，內容為C:\Users\cheng\git\org.ecl
 
 
 $ git clone https://github.com/shouchengH/om2m-https-mutual-authentication<br>
-$ cd org.eclipse.om2m<br>
+$ cd om2m-https-mutual-authentication\org.eclipse.om2m<br>
 $ mvn install<br>
