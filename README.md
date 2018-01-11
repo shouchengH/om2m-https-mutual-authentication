@@ -1,4 +1,4 @@
-"# om2m-https-mutual-authentication" 
+# om2m-https-mutual-authentication
 
 create_self-signed-GSCL.py : 利用Python來創造GSCL的Keystore，存放在PKI資料夾下<br>
 create_self-signed-NSCL.py : 利用Python來創造NSCL的Keystore ，存放在PKI資料夾下<br>
